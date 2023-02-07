@@ -66,7 +66,7 @@ class HBNBCommand(cmd.Cmd):
             "Amenity": Amenity,
             "Place": Place,
             "Review": Review,
-            "storage": FileStorage
+            "storage": storage
             }
         return classes
 
