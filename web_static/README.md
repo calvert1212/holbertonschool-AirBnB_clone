@@ -1,1 +1,1 @@
-introduction to wed dev
+Learning about web static!
